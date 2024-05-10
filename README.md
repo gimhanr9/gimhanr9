@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gimhan</h1>
-<h3 align="center">Engineering Seamless Connections Between Frontend Artistry and Backend Mastery</h3>
+<h3 align="center">Blending Frontend Artistry with Backend Mastery to Engineer Full Stack Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gimhanr9&label=Profile%20views&color=0e75b6&style=flat" alt="gimhanr9" /> </p>
 
