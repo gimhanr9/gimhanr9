@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gimhanr9&label=Profile%20views&color=0e75b6&style=flat" alt="gimhanr9" /> </p>
 
-- 🔭 I’m currently working as a Full-Stack Software Engineer **@ H2Compute**
+- 🔭 I’m currently working as a Full-Stack Software Engineer @ H2Compute
 
-- 🌱 I’m currently learning **Next.js and NestJS**
+- 🌱 I’m currently learning Next.js and NestJS
 
-- 👯 I’m looking to collaborate on **Freelance projects**
+- 👯 I’m looking to collaborate on Freelance projects
 
-- 👨‍💻 All of my projects are available at [gimhanrodrigo.com](gimhanrodrigo.com)
+- 💬 Ask me about JavaScript, TypeScript, Machine Learning, and more! Let's dive into tech together! 💻🔍
 
-- 💬 Ask me about **JavaScript, TypeScript, Machine Learning, and more! Let's dive into tech together! 💻🔍**
+- 📫 How to reach me: gimhanr9@gmail.com
 
-- 📫 How to reach me **gimhanr9@gmail.com**
-
-- ⚡ Fun fact **AI enthusiast and cricket lover - a unique blend of passions! 🤖🏏**
+- ⚡ Fun fact: AI enthusiast and cricket lover - a unique blend of passions! 🤖🏏
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
