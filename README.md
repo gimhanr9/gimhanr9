@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gimhanr9&label=Profile%20views&color=0e75b6&style=flat" alt="gimhanr9" /> </p>
 
-- 🔭 I’m currently working as a Full-Stack Software Engineer @ H2Compute
+- 🔭 I’m currently working as a Senior Software Engineer @ H2Compute
 
 - 🌱 I’m currently learning Next.js and NestJS
 
